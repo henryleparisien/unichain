@@ -1,2 +1,2 @@
-# SnakeCoin.js
-NodeJS implementation of the SnakeCoin.py blockchain generator by Aunyks
+# patcoin.js
+NodeJS implementation of a blockchain generator pateuse.world
