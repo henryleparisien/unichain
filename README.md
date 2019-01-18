@@ -1,2 +1,2 @@
 # patcoin.js
-NodeJS implementation of a blockchain generator pateuse.world
+NodeJS implementation of a blockchain generator for pateuse.world
