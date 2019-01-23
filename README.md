@@ -1,2 +1,2 @@
-# patcoin.js
-NodeJS implementation of a blockchain generator for pateuse.world
+# unichain.js
+NodeJS implementation of a blockchain generator for eveybody
