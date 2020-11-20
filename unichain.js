@@ -25,7 +25,7 @@ var create_genesis_block = function() {
 var next_block = function(last_block) {
     this_index = last_block.index + 1;
     this_timestamp = Date.now();
-    this_data = "Hey! I'm block " + this_index.toString();
+    this_data = "This is block " + this_index.toString();
     this_hash = last_block.hash;
     return new Block(this_index, this_timestamp, this_data, this_hash);
 }
